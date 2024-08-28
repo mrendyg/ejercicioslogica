@@ -7,7 +7,6 @@ package org.mrendyg;
 // * al respecto.
  */
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class numeroAmstrong {
